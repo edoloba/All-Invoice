@@ -19,3 +19,6 @@ After cloning repository, run npm install in both folder.
 > ENCRYPT_PASS=<encrypt_pass>
 > 
 > PORT=<port>
+
+  
+#### Then run npm start in both folder and you are ready to go!
