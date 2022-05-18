@@ -13,9 +13,9 @@ After cloning repository, run npm install in both folder.
 > APP_EMAIL_PASSWORD=<app_email_password>
 > 
 > APP_EMAIL=<app_email>
-
+>
 > DB_CONNECTION=mongodb+srv://<user>:<password>@cluster0.6fbrz.mongodb.net/<database_name>?retryWrites=true&w=majority
-  
+> 
 > ENCRYPT_PASS=<encrypt_pass>
-  
+> 
 > PORT=<port>
